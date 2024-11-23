@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\GENERIC\bin\Debug\GENERIC.exe.config
+C:\Users\ASUS\source\repos\GENERIC\bin\Debug\GENERIC.exe
+C:\Users\ASUS\source\repos\GENERIC\bin\Debug\GENERIC.pdb
+C:\Users\ASUS\source\repos\GENERIC\obj\Debug\GENERIC.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\GENERIC\obj\Debug\GENERIC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GENERIC\obj\Debug\GENERIC.exe
+C:\Users\ASUS\source\repos\GENERIC\obj\Debug\GENERIC.pdb
